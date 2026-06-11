@@ -10,7 +10,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 # ==========================================
 PORTFOLIO = {
     "ism_familiya": "Nazarov Behruz`",
-    "yosh": 18,
+    "yosh": 15,
     "haqida": "Men dasturlashni yaxshi ko'raman. Python va web dasturlash bilan shug'ullanaman.",
 
     "maktab": "79-maktab",
